@@ -171,22 +171,7 @@ PolluSkin_AI/
 
 ## Screenshots
 
-### Home Page
-
-* Image Upload
-* Camera Capture
-* City Input
-
-### Result Dashboard
-
-* Predicted Condition
-* Confidence Score
-* AQI Information
-* Pollutant Analysis
-* Personalized Recommendations
-
-
-     <img width="483" height="449" alt="image" src="https://github.com/user-attachments/assets/f49554e9-26aa-492b-ae91-f343a7a10d35" />
+   <img width="483" height="449" alt="image" src="https://github.com/user-attachments/assets/f49554e9-26aa-492b-ae91-f343a7a10d35" />
 
    <img width="618" height="601" alt="image" src="https://github.com/user-attachments/assets/3b882fc8-840c-42c1-9d3b-04f222983042" />
 
