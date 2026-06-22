@@ -185,14 +185,16 @@ PolluSkin_AI/
 * Pollutant Analysis
 * Personalized Recommendations
 
-(Add screenshots here)
-<img width="483" height="449" alt="image" src="https://github.com/user-attachments/assets/f49554e9-26aa-492b-ae91-f343a7a10d35" />
-<img width="618" height="601" alt="image" src="https://github.com/user-attachments/assets/3b882fc8-840c-42c1-9d3b-04f222983042" />
-<img width="862" height="388" alt="image" src="https://github.com/user-attachments/assets/5cafeb71-7a2a-40ac-ad87-f62fb0d920b3" />
-<img width="653" height="487" alt="image" src="https://github.com/user-attachments/assets/e5583acb-6319-4d31-a7bc-3500e586cf5d" />
-<img width="748" height="569" alt="image" src="https://github.com/user-attachments/assets/f2627abc-ec52-4a6f-ac1f-a1aacc49556d" />
 
+     <img width="483" height="449" alt="image" src="https://github.com/user-attachments/assets/f49554e9-26aa-492b-ae91-f343a7a10d35" />
 
+   <img width="618" height="601" alt="image" src="https://github.com/user-attachments/assets/3b882fc8-840c-42c1-9d3b-04f222983042" />
+
+   <img width="862" height="388" alt="image" src="https://github.com/user-attachments/assets/5cafeb71-7a2a-40ac-ad87-f62fb0d920b3" />
+
+   <img width="653" height="487" alt="image" src="https://github.com/user-attachments/assets/e5583acb-6319-4d31-a7bc-3500e586cf5d" />
+
+   <img width="748" height="569" alt="image" src="https://github.com/user-attachments/assets/f2627abc-ec52-4a6f-ac1f-a1aacc49556d" />
 
 
 ---
